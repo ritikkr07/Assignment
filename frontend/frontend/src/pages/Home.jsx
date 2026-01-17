@@ -31,7 +31,7 @@ const Home = () => {
 
               <div className="flex items-center gap-4">
                 <select className="border border-gray-200 rounded-md px-3 py-1.5 text-sm text-gray-600">
-                  <option>Choose Country</option>
+                  <option>Choose Country by ...</option>
                 </select>
 
                 <button className="text-sm text-green-600 font-medium">
